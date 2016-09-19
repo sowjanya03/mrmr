@@ -6,8 +6,6 @@ function [fea] = mrmr_mid_d(d, f, K)
 % By Hanchuan Peng
 % April 16, 2003
 
-fprintf('\nPerforming mRMR feature selection...\n');
-
 bdisp=0;
 
 nd = size(d,2);

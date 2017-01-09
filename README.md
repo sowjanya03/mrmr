@@ -8,7 +8,7 @@ This identical to ```/Matlab``` in https://github.com/cjlin1/libsvm, except I ch
 
 ---
 
-From the original repo:
+> From the original repo:
 
 To run the mRMR variable/feature selection for discrete variables, you need to add the path of mi_0.9 in your 
 Matlab path. Then simply run mrmr_mid_d.m or mrmr_miq_d.m for your data.
